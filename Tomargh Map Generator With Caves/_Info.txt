@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 64,
+GAME_VERSION_MINOR: 16,
+NAME: "TomArgh Map Generator With Caves",
+DESC: "Changes map generation; more minable resources, mountains slightly larger, wider rivers, denser forests, more rocks, more edibles. Caves are enabled in this version.",
+AUTHOR: "TomArgh",
+INFO: "",
